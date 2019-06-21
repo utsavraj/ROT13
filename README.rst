@@ -6,14 +6,11 @@ ROT13 is a simple letter substitution cipher that replaces a letter with the 13t
 Sample Input:
 -------
 ::
-    Azazel is according to the Book of Enoch a fallen Angel. :o
 
-::
-
-  some literal text
+  Azazel is according to the Book of Enoch a fallen Angel. :o
 
 
-Sample Output 1:
+Sample Output:
 -------
 
 ::
