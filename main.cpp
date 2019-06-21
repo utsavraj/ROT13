@@ -26,7 +26,7 @@ int main()
 	cout << "Write your text: " << endl;
 	getline(cin, input);
 	cout << "ROT13: " << ROT13(input) << endl;
-	return 0;
+
 }
 
 
