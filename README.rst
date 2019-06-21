@@ -8,6 +8,10 @@ Sample Input:
 ::
     Azazel is according to the Book of Enoch a fallen Angel. :o
 
+::
+
+  some literal text
+
 
 Sample Output 1:
 -------
