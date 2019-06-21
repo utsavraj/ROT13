@@ -7,7 +7,7 @@ using namespace std;
 string ROT13(string input)
 {
 	string transformed;
-	for (size_t i = 0; i < input.size(); ++i) {
+	for (int i = 0; i < input.size(); i++) {
 		if (isalpha(input[i])) {
 			if ((tolower(input[i]) - 'a') < 14)
 				transformed.append(1, input[i] + 13);
