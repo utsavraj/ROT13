@@ -12,8 +12,8 @@ Sample Input:
 
 Sample Output:
 -------
-
 ::
-    Nmnmry vf nppbeqvat gb gur Obbx bs Rabpu n snyyra Natry. :0
+
+  Nmnmry vf nppbeqvat gb gur Obbx bs Rabpu n snyyra Natry. :0
 
 .. _Wikipedia: https://en.wikipedia.org/wiki/ROT13
